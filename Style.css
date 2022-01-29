@@ -14,7 +14,7 @@
 }
 
 section.main{
-    background-image: url('./imagens/bg.svg');
+    background-image: url('./Imagens/bg.svg');
     min-height: 700px;
     background-position: center;
     background-size: cover;
@@ -119,7 +119,7 @@ section.porque-nos > .center > p{
 }
 
 section.cta{
-    background-image: url('./imagens/BANNER_MEIO.svg');
+    background-image: url('./Imagens/BANNER_MEIO.svg');
     background-size: cover;
     background-position: center;
     padding: 20px 10;
